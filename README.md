@@ -1,6 +1,7 @@
 ## Identity Reconciliation Project.
 
 - Link to deployed web service - https://identity-reconciliation-project.onrender.com/identity.
+- Endpoint is `/identity`.
   
 - Use postman or any other tool for making the `POST` request.
   
